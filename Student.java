@@ -11,5 +11,7 @@ class Student {
         this.name = name;
     }
 
-    
+    public String getname(){
+        return "Ruwani";
+    }
 }
